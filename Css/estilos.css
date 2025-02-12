@@ -1,0 +1,33 @@
+body {
+    background: linear-gradient(135deg, #ff9a9e, #fad0c4);
+    font-family: 'Arial', sans-serif;
+}
+
+.card {
+    background: white;
+    border-radius: 15px;
+    max-width: 500px;
+    margin: auto;
+}
+
+.navbar {
+    background: linear-gradient(135deg,#f17070,#e16cf8)!important;
+    
+}
+
+
+#color-picker {
+    width: 100%;
+    height: 50px;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+}
+
+.color-box {
+    width: 180px;
+    height: 180px;
+    border-radius: 15px;
+    border: 2px solid #000;
+    transition: all 0.3s ease-in-out;
+}
